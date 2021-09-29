@@ -38,6 +38,14 @@ label {
     display: block;
 }
 
+.result{
+    margin: 1rem;
+}
+
+.timeout{
+    display: none;
+}
+
 button{
     background-color: var(--primary-color);
     border: none;
